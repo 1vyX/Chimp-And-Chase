@@ -1,0 +1,7 @@
+Welcome to Chimp And Chase! 
+The Game Is Now In Beta, You May Come Across Some Rough Edges.
+We Are Working On Making The Game More Stable And Polishing The Mechanics.
+-- Fixed Multiplayer.
+-- Fixed Insane Lag.
+-- Added Hit Sound Effects.
+-- Christmas Themed update.
